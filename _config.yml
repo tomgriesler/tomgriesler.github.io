@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : #&twitter
+  username               : tomgriesler
 facebook:
   username               :
   app_id                 :
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Tom Griesler"
   avatar           : "profile_picture.jpeg"
-  bio              : "Doctoral Researcher at University of Michigan <b>tomgr@umich.edu </b>"
+  bio              : "Doctoral Researcher at the University of Michigan <b>tomgr@umich.edu </b>"
   location         : "Ann Arbor, MI"
   employer         :
   pubmed           :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/tom-griesler-573910215/
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
