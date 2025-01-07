@@ -86,8 +86,8 @@ author:
   location         : "Ann Arbor, MI"
   employer         :
   pubmed           :
-  googlescholar    : 
-  email            :  "tomgr@med.umich.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=SGiGw1cAAAAJ&hl=en&oi=sra"
+  email            : "tomgr@med.umich.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
