@@ -9,16 +9,8 @@ author_profile: true
   
 {% include base_path %}
 
-<b>Preprints</b>
+<b>Conference - first author</b>
 ======
 
-<b>Technical Reports</b>
+<b>Conference - coauthor</b>
 ======
-
-<b>Journal</b>
-======
-
-<b>Conference</b>
-======
-
-

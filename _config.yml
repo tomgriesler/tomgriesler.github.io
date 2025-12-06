@@ -44,14 +44,14 @@ analytics:
 author:
   name             : "Tom Griesler"
   avatar           : "profile_picture.jpeg"
-  bio              : "BME PhD student at the University of Michigan"
+  bio              : "BME PhD candidate at the University of Michigan"
   location         : "Ann Arbor, MI"
   googlescholar    : "https://scholar.google.com/citations?user=SGiGw1cAAAAJ&hl=en&oi=sra"
   email            : "tomgr@med.umich.edu"
   github           : "tomgriesler"
   linkedin         : "tomgriesler"
   orcid            : "https://orcid.org/0009-0003-3777-5483"
-  twitter          : "tomgriesler"
+  # twitter          : "tomgriesler"
 
 
 # Reading Files
