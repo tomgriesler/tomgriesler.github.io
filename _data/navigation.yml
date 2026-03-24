@@ -4,7 +4,7 @@ main:
     url: /publications/
 
   - title: "OpenMRF"
-    url: https://tomgriesler.github.io/openmrf_documentation/
+    url: https://openmrf.org/
 
   #- title: "Talks"
     #url: /talks/    
