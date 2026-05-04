@@ -9,7 +9,7 @@ author_profile: true
 
 ## Preprints
 
-1. **Tom Griesler**, Jannik Stebani, Sydney Kaplan, Ivaylo Angelov, Petra Albert, Martin Blaimer, Tobias Wech, Xiang Wang, Qingping Chen, Maxim Zaitsev, Zhibo Zhu, Qi Liu, Peter Martin, Jon-Fredrik Nielsen, Jesse I Hamilton, Peter Nordbeck, Nicole Seiberlich, Maximilian Gram. "OpenMRF: A Modular, Vendor-Neutral Open-Source Framework for Reproducible Magnetic Resonance Fingerprinting using Pulseq". *Submitted to Magnetic Resonance in Medicine*, May 2026. [Submitted to arXiv on 24 Apr 2026]
+1. **Tom Griesler**, Jannik Stebani, Sydney Kaplan, Ivaylo Angelov, Petra Albert, Martin Blaimer, Tobias Wech, Xiang Wang, Qingping Chen, Maxim Zaitsev, Zhibo Zhu, Qi Liu, Peter Martin, Jon-Fredrik Nielsen, Jesse I Hamilton, Peter Nordbeck, Nicole Seiberlich, Maximilian Gram. "OpenMRF: A Modular, Vendor-Neutral Open-Source Framework for Reproducible Magnetic Resonance Fingerprinting using Pulseq". *Submitted to Magnetic Resonance in Medicine*, April 2026.
 
 ## Conference Abstracts – First Author
 
