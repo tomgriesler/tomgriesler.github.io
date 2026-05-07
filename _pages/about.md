@@ -13,4 +13,4 @@ I am a core contributor to [OpenMRF](https://openmrf.org/), an open framework ai
 
 I completed my MSc in Physics at the University of Würzburg, Germany, in the group of Prof. Peter Jakob. I grew up in Germany and have also spent time living and studying in the United States, France, and Israel. I am fluent in German, English, and French.
 
-[Curriculum Vitae (CV)](https://tomgriesler.github.io/files/main.pdf)
+[Curriculum Vitae (CV)](https://tomgriesler.github.io/files/CV_TomGriesler_May2026.pdf)
