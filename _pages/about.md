@@ -15,4 +15,4 @@ I grew up in Germany and have also lived and studied in the United States, Franc
 
 Outside the lab, I spend most of my time biking, running, hiking, and camping, and enjoy brass music and sourdough baking.
 
-[Curriculum Vitae (CV)](https://tomgriesler.github.io/files/CV_TomGriesler_July2026.pdf)
+[Curriculum Vitae (CV)](https://tomgriesler.github.io/files/CV_TomGriesler_September2026.pdf)
